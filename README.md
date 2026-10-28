@@ -1,4 +1,3 @@
-```markdown name=README.md url=https://github.com/FarhaKousar1601/IBM-ASSIGMENT_VTU-ROOMAN-INTERNSHIP/blob/main/README.md
 # IBM ASSIGMENT - VTU ROOMAN INTERNSHIP
 
 This repository contains a collection of data science and machine learning projects completed as part of the IBM assignment and VTU Rooman internship. The projects focus on practical data analysis, predictive modeling, and performance evaluation using Python and Jupyter notebooks.
@@ -51,25 +50,3 @@ From the notebooks in this repository:
 3. Install the required libraries if needed:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
-   ```
-4. Run the cells in each notebook sequentially.
-
-## Repository Structure
-
-```text
-IBM-ASSIGMENT_VTU-ROOMAN-INTERNSHIP/
-├── Analysis_using_clustering_algorithm.ipynb
-├── Customer_Churn_Prediction.ipynb
-├── Predicting_House_Prices.ipynb
-├── LICENSE
-└── README.md
-```
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgement
-
-This repository demonstrates beginner-to-intermediate level data science and machine learning work completed during the internship assignment.
-```
